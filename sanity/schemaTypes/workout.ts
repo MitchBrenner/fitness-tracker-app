@@ -1,5 +1,4 @@
 import {defineArrayMember, defineField, defineType} from 'sanity'
-import exercise from './exercise'
 
 export default defineType({
   name: 'workout',
